@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894008057630",
+    "project_id": "paceloop-e74a9",
+    "storage_bucket": "paceloop-e74a9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894008057630:android:64bb54883a6a5dd559f30f",
+        "android_client_info": {
+          "package_name": "com.paceloop.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB7CFtzrElPyJW9QsFrIOCBKRqnJYd8Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
